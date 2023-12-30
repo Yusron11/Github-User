@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="username">Username</string>
+    <string name="searchbar_hint">Masukkan username</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="bio">Bio</string>
+    <string name="follow">99 Followers     99 Following</string>
+    <string name="user_profile_picture">Profile Picture</string>
+    <string name="not_found">Not Found</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="github">github</string>
+
+</resources>
