@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
 
-        buildConfigField("String", "TOKEN", "\"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\"")
+        buildConfigField("String", "TOKEN", "\"YOUR_GITHUB_TOKEN\"")
 
 
         applicationId = "com.dicoding.githubuser"
